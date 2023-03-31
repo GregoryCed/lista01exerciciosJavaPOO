@@ -1,4 +1,4 @@
-package exercicio06;
+package exercicio06_07_08_09;
 
 import java.util.Random;
 

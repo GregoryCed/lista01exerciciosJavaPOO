@@ -1,4 +1,4 @@
-package exercicio07;
+package exercicio06_07_08_09;
 
 public class Porta {
 	
